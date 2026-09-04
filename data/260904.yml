@@ -7,7 +7,7 @@ about:
   head: a1189de
   archived: false
   latestVersion: v2.24.0
-  collectedAt: 2026-09-04T19:32:05Z
+  collectedAt: 2026-09-04T21:01:19Z
 timeline:
   created: 2018-01-23
   lastCommit: 2026-08-31
@@ -98,6 +98,184 @@ total:
   openIssue: 834
   commit: 9241
 ---
+path: /home/runner/.x-repo/github.com/GoogleContainerTools/skaffold
+collectedAt: 2026-09-04T21:01:29Z
+loc:
+  Go:
+    code: 2247588
+    comments: 545004
+    blanks: 310907
+    files: 11222
+  Json:
+    code: 383490
+    comments: 0
+    blanks: 400
+    files: 259
+  AssemblyGAS:
+    code: 29419
+    comments: 1573
+    blanks: 3322
+    files: 93
+  Yaml:
+    code: 21930
+    comments: 1047
+    blanks: 622
+    files: 743
+  Protobuf:
+    code: 10489
+    comments: 22265
+    blanks: 5224
+    files: 89
+  Sh:
+    code: 5866
+    comments: 2023
+    blanks: 957
+    files: 104
+  JavaScript:
+    code: 4371
+    comments: 420
+    blanks: 894
+    files: 58
+  Dockerfile:
+    code: 1859
+    comments: 445
+    blanks: 335
+    files: 192
+  Makefile:
+    code: 1786
+    comments: 242
+    blanks: 556
+    files: 42
+  Batch:
+    code: 1548
+    comments: 20
+    blanks: 370
+    files: 15
+  Html:
+    code: 1178
+    comments: 30
+    blanks: 65
+    files: 61
+  CHeader:
+    code: 1167
+    comments: 110
+    blanks: 70
+    files: 5
+  Css:
+    code: 858
+    comments: 12
+    blanks: 175
+    files: 29
+  Xml:
+    code: 786
+    comments: 16
+    blanks: 91
+    files: 19
+  Bash:
+    code: 404
+    comments: 60
+    blanks: 46
+    files: 3
+  Toml:
+    code: 364
+    comments: 153
+    blanks: 109
+    files: 16
+  Pan:
+    code: 314
+    comments: 0
+    blanks: 20
+    files: 11
+  Java:
+    code: 270
+    comments: 0
+    blanks: 56
+    files: 26
+  Python:
+    code: 140
+    comments: 26
+    blanks: 42
+    files: 7
+  ABNF:
+    code: 126
+    comments: 37
+    blanks: 80
+    files: 1
+  Hcl:
+    code: 104
+    comments: 2
+    blanks: 18
+    files: 2
+  C:
+    code: 97
+    comments: 38
+    blanks: 30
+    files: 3
+  Nix:
+    code: 76
+    comments: 1
+    blanks: 15
+    files: 3
+  CSharp:
+    code: 70
+    comments: 2
+    blanks: 8
+    files: 3
+  Php:
+    code: 70
+    comments: 0
+    blanks: 12
+    files: 2
+  Bitbake:
+    code: 56
+    comments: 0
+    blanks: 0
+    files: 3
+  Groovy:
+    code: 48
+    comments: 0
+    blanks: 8
+    files: 4
+  Svg:
+    code: 31
+    comments: 2
+    blanks: 0
+    files: 3
+  Ruby:
+    code: 26
+    comments: 0
+    blanks: 4
+    files: 3
+  TypeScript:
+    code: 18
+    comments: 0
+    blanks: 4
+    files: 4
+  MsBuild:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 62831
+    blanks: 28295
+    files: 789
+  Text:
+    code: 0
+    comments: 12726
+    blanks: 1538
+    files: 105
+total:
+  code: 2723866
+  comments: 650099
+  blanks: 355329
+  files: 13921
 ---
 date: "2026-08-31T20:30:48Z"
 repo:
