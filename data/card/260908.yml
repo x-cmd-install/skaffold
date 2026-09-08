@@ -5,7 +5,7 @@ about:
   head: a1189de
   archived: false
   latestVersion: "v2.24.0"
-  collectedAt: 2026-09-08T02:09:58Z
+  collectedAt: 2026-09-08T04:55:34Z
 timeline:
   created: 2018-01-23
   lastCommit: 2026-08-31
@@ -97,7 +97,7 @@ total:
   commit: 9241
 ---
 path: /home/runner/.x-repo/github.com/GoogleContainerTools/skaffold
-collectedAt: 2026-09-08T02:10:32Z
+collectedAt: 2026-09-08T04:56:08Z
 loc:
   Go:
     code: 2247588

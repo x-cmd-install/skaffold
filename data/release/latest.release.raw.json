@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 121526272,
       "digest": "sha256:a8331e599223ad9df489b4d956704505b888c24b0d89abf26a0fe61c58d10fc5",
-      "download_count": 470,
+      "download_count": 472,
       "created_at": "2026-07-23T20:54:25Z",
       "updated_at": "2026-07-23T20:54:30Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64"
