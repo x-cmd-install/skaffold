@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 130093984,
       "digest": "sha256:b30ff1735839adf96f3116a0e5ca63ddad37e33a3d6123a5c209ad77ea389c8b",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2026-07-23T20:54:24Z",
       "updated_at": "2026-07-23T20:54:30Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:a111f19c0ffb5f3888e7f83dec4f4bcb894790a33747bab42d8eb38793428aa0",
-      "download_count": 3443,
+      "download_count": 3486,
       "created_at": "2026-07-23T20:54:24Z",
       "updated_at": "2026-07-23T20:54:24Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 130036968,
       "digest": "sha256:702344081860a587c57937cd55dfa2e70f124c05d6fb845319832ee23fd144a8",
-      "download_count": 8993,
+      "download_count": 9207,
       "created_at": "2026-07-23T20:54:24Z",
       "updated_at": "2026-07-23T20:54:30Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:4def3191f4dcf99da94c25ca9b596e708c0f918c4229927690bd0f9ca822a309",
-      "download_count": 3188,
+      "download_count": 3212,
       "created_at": "2026-07-23T20:54:25Z",
       "updated_at": "2026-07-23T20:54:25Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 70,
       "digest": "sha256:db91d692a914fd4ddcf884717317b819321d6e12b3064ef31a6bec8aa0ac09fa",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-07-23T20:54:25Z",
       "updated_at": "2026-07-23T20:54:25Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64.sha256.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 121526272,
       "digest": "sha256:a8331e599223ad9df489b4d956704505b888c24b0d89abf26a0fe61c58d10fc5",
-      "download_count": 488,
+      "download_count": 501,
       "created_at": "2026-07-23T20:54:25Z",
       "updated_at": "2026-07-23T20:54:30Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 87,
       "digest": "sha256:24dcc5a946462555398ec664a76db94e4197a6c3bc4c79d1aac69585d2993671",
-      "download_count": 3455,
+      "download_count": 3505,
       "created_at": "2026-07-23T20:54:26Z",
       "updated_at": "2026-07-23T20:54:26Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 122144408,
       "digest": "sha256:4cf25dbb5a401c8acf0fcc9b8e3cd423b16c7a4b00631ec42e8689dc614c1eab",
-      "download_count": 816,
+      "download_count": 838,
       "created_at": "2026-07-23T20:54:27Z",
       "updated_at": "2026-07-23T20:54:31Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:31d110e1b84732998ce9fc688017c593a5260643c4ea6e5ff63fd435fa4f6c8b",
-      "download_count": 3383,
+      "download_count": 3426,
       "created_at": "2026-07-23T20:54:30Z",
       "updated_at": "2026-07-23T20:54:30Z",
       "browser_download_url": "https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe.sha256"
