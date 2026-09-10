@@ -12,6 +12,28 @@ Easy and Repeatable Kubernetes Development
 x install skaffold
 ```
 
+## 代码规模
+
+合计: **2,714,555** 行代码（覆盖前 5 种语言、共 **12406** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 2,247,588 | 545,004 | 310,907 | 11222 |
+| Json | 383,490 | 0 | 400 | 259 |
+| AssemblyGAS | 29,419 | 1,573 | 3,322 | 93 |
+| Yaml | 21,930 | 1,047 | 622 | 743 |
+| Protobuf | 10,489 | 22,265 | 5,224 | 89 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **7.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/GoogleContainerTools/skaffold>
@@ -23,6 +45,25 @@ x install skaffold
 - **最新版本**: `v2.24.0` (2026-07-23)
 - **最近提交**: 2026-08-31
 - **Release 含资产**: 22 个
+
+## 流行度
+
+- **Star**: 15,888 · **Fork**: 1,702 · **开放 issue**: 4,279 · **贡献者**: 443
+
+## 累计统计
+
+- **发布数**: 200 · **已合并 PR**: 4872 · **开放 PR**: 77 · **已关闭 issue**: 3445 · **开放 issue**: 834 · **提交数**: 9241
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 3 | 12 | 1 | 2 | 7 |
+| last60d | 2026-07-12 | 1 | 9 | 14 | 1 | 5 | 8 |
+| 90d | 2026-06-12 | 2 | 23 | 19 | 1 | 12 | 25 |
+| last180d | 2026-03-14 | 9 | 67 | 36 | 8 | 18 | 65 |
+| 360d | 2025-09-15 | 14 | 126 | 52 | 13 | 36 | 123 |
+| last720d | 2024-09-20 | 20 | 299 | 64 | 49 | 92 | 308 |
 
 ## Release 资产
 
@@ -51,43 +92,17 @@ x install skaffold
 | [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION) | 8 B | `other` |
 | [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION.sig) | 71 B | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 15,888 · **Fork**: 1,703 · **开放 issue**: 4,279 · **贡献者**: 443
+在 [repology.org](https://repology.org/project/skaffold) 上共有 **81** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 200 · **已合并 PR**: 4872 · **开放 PR**: 77 · **已关闭 issue**: 3445 · **开放 issue**: 834 · **提交数**: 9241
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 3 | 12 | 1 | 2 | 7 |
-| 90d | 2026-06-12 | 2 | 23 | 19 | 1 | 12 | 25 |
-| 360d | 2025-09-15 | 14 | 126 | 52 | 13 | 36 | 123 |
-
-## 代码规模
-
-合计: **2,714,555** 行代码（覆盖前 5 种语言、共 **12406** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 2,247,588 | 545,004 | 310,907 | 11222 |
-| Json | 383,490 | 0 | 400 | 259 |
-| AssemblyGAS | 29,419 | 1,573 | 3,322 | 93 |
-| Yaml | 21,930 | 1,047 | 622 | 743 |
-| Protobuf | 10,489 | 22,265 | 5,224 | 89 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **7.2 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.22.1` | ⚠️ outdated |
+| Homebrew | `2.24.0` | ✅ latest |
+| Nix unstable | `2.24.0` | ✅ latest |
+| Void | `2.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.24.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -98,4 +113,4 @@ skaffold 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:48:17Z._

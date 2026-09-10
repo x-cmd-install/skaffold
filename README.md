@@ -12,6 +12,28 @@ Easy and Repeatable Kubernetes Development
 x install skaffold
 ```
 
+## Code insight
+
+Total: **2,714,555** lines of code across **12406** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,247,588 | 545,004 | 310,907 | 11222 |
+| Json | 383,490 | 0 | 400 | 259 |
+| AssemblyGAS | 29,419 | 1,573 | 3,322 | 93 |
+| Yaml | 21,930 | 1,047 | 622 | 743 |
+| Protobuf | 10,489 | 22,265 | 5,224 | 89 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/GoogleContainerTools/skaffold>
@@ -23,6 +45,25 @@ x install skaffold
 - **Latest**: `v2.24.0` (2026-07-23)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 22
+
+## Popularity
+
+- **Stars**: 15,888 · **Forks**: 1,702 · **Open issues**: 4,279 · **Contributors**: 443
+
+## Totals (cumulative)
+
+- **Releases**: 200 · **Merged PRs**: 4872 · **Open PRs**: 77 · **Closed issues**: 3445 · **Open issues**: 834 · **Commits**: 9241
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 3 | 12 | 1 | 2 | 7 |
+| last60d | 2026-07-12 | 1 | 9 | 14 | 1 | 5 | 8 |
+| 90d | 2026-06-12 | 2 | 23 | 19 | 1 | 12 | 25 |
+| last180d | 2026-03-14 | 9 | 67 | 36 | 8 | 18 | 65 |
+| 360d | 2025-09-15 | 14 | 126 | 52 | 13 | 36 | 123 |
+| last720d | 2024-09-20 | 20 | 299 | 64 | 49 | 92 | 308 |
 
 ## Release assets
 
@@ -51,43 +92,17 @@ x install skaffold
 | [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION) | 8 B | `other` |
 | [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION.sig) | 71 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 15,888 · **Forks**: 1,703 · **Open issues**: 4,279 · **Contributors**: 443
+Reported by **81** distros on [repology.org](https://repology.org/project/skaffold). **9** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 200 · **Merged PRs**: 4872 · **Open PRs**: 77 · **Closed issues**: 3445 · **Open issues**: 834 · **Commits**: 9241
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 3 | 12 | 1 | 2 | 7 |
-| 90d | 2026-06-12 | 2 | 23 | 19 | 1 | 12 | 25 |
-| 360d | 2025-09-15 | 14 | 126 | 52 | 13 | 36 | 123 |
-
-## Code size
-
-Total: **2,714,555** lines of code across **12406** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,247,588 | 545,004 | 310,907 | 11222 |
-| Json | 383,490 | 0 | 400 | 259 |
-| AssemblyGAS | 29,419 | 1,573 | 3,322 | 93 |
-| Yaml | 21,930 | 1,047 | 622 | 743 |
-| Protobuf | 10,489 | 22,265 | 5,224 | 89 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.2 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.22.1` | ⚠️ outdated |
+| Homebrew | `2.24.0` | ✅ latest |
+| Nix unstable | `2.24.0` | ✅ latest |
+| Void | `2.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.24.0` | ✅ latest |
 
 ## Improve this data
 
@@ -98,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:48:15Z._
