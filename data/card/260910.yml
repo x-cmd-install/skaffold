@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.24.0"
   latestRelease: "v2.24.0"
   latestPrerelease: "v2.0.0-beta3"
-  collectedAt: 2026-09-10T16:44:46Z
+  collectedAt: 2026-09-10T20:47:38Z
 timeline:
   created: 2018-01-23
   lastCommit: 2026-08-31
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 15888
   watcher: 185
-  fork: 1703
+  fork: 1702
   release: 200
   contributor: 443
   pullRequest: 5874
@@ -101,7 +101,7 @@ total:
   commit: 9241
 ---
 path: /home/runner/.x-repo/github.com/GoogleContainerTools/skaffold
-collectedAt: 2026-09-10T16:45:04Z
+collectedAt: 2026-09-10T20:48:01Z
 loc:
   Go:
     code: 2247588
