@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 3 | 12 | 1 | 2 | 7 |
-| last60d | 2026-07-12 | 1 | 9 | 14 | 1 | 5 | 8 |
-| 90d | 2026-06-12 | 2 | 23 | 19 | 1 | 12 | 25 |
-| last180d | 2026-03-14 | 9 | 67 | 36 | 8 | 18 | 65 |
-| 360d | 2025-09-15 | 14 | 126 | 52 | 13 | 36 | 123 |
-| last720d | 2024-09-20 | 20 | 299 | 64 | 49 | 92 | 308 |
+| 30d | 2026-08-12 | 0 | 3 | 12 | 1 | 2 | 7 |
+| last60d | 2026-07-13 | 1 | 8 | 14 | 1 | 5 | 8 |
+| 90d | 2026-06-13 | 2 | 23 | 19 | 1 | 12 | 25 |
+| last180d | 2026-03-15 | 9 | 67 | 35 | 8 | 18 | 65 |
+| 360d | 2025-09-16 | 14 | 126 | 52 | 13 | 36 | 123 |
+| last720d | 2024-09-21 | 20 | 299 | 64 | 49 | 92 | 307 |
 
 ## Release assets
 
@@ -94,11 +94,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/skaffold). **9** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **10** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.22.1` | ⚠️ outdated |
+| Arch | `2.24.0` | ✅ latest |
 | Homebrew | `2.24.0` | ✅ latest |
 | Nix unstable | `2.24.0` | ✅ latest |
 | Void | `2.24.0` | ✅ latest |
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:02:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:04:13Z._
