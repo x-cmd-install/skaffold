@@ -96,9 +96,9 @@
   srcname: skaffold
   binname: skaffold
   visiblename: skaffold
-  version: 2.22.1
-  origversion: 2.22.1-1
-  status: outdated
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: newest
   summary: A command line tool that facilitates continuous development for Kubernetes applications
   licenses:
     - Apache-2.0
