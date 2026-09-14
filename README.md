@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,891 · **Forks**: 1,703 · **Open issues**: 4,280 · **Contributors**: 443
+- **Stars**: 15,892 · **Forks**: 1,702 · **Open issues**: 4,281 · **Contributors**: 443
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 4873 · **Open PRs**: 77 · **Closed issues**: 3446 · **Open issues**: 834 · **Commits**: 9242
+- **Releases**: 200 · **Merged PRs**: 4873 · **Open PRs**: 77 · **Closed issues**: 3447 · **Open issues**: 834 · **Commits**: 9242
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 4 | 12 | 2 | 2 | 8 |
-| last60d | 2026-07-15 | 1 | 9 | 14 | 2 | 4 | 9 |
-| 90d | 2026-06-15 | 2 | 24 | 19 | 2 | 12 | 26 |
-| last180d | 2026-03-17 | 9 | 68 | 31 | 9 | 18 | 66 |
-| 360d | 2025-09-18 | 14 | 127 | 52 | 14 | 36 | 124 |
-| last720d | 2024-09-23 | 20 | 300 | 64 | 50 | 92 | 308 |
+| 30d | 2026-08-15 | 0 | 4 | 12 | 3 | 2 | 6 |
+| last60d | 2026-07-16 | 1 | 9 | 14 | 3 | 4 | 9 |
+| 90d | 2026-06-16 | 2 | 24 | 19 | 3 | 12 | 26 |
+| last180d | 2026-03-18 | 9 | 68 | 31 | 10 | 18 | 64 |
+| 360d | 2025-09-19 | 14 | 127 | 51 | 15 | 36 | 124 |
+| last720d | 2024-09-24 | 20 | 300 | 64 | 51 | 92 | 308 |
 
 ## Release assets
 
@@ -92,18 +92,6 @@ Lowest-scoring checks:
 | [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION) | 8 B | `other` |
 | [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION.sig) | 71 B | `other` |
 
-## Distribution status
-
-Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **11** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.24.0` | ✅ latest |
-| Homebrew | `2.24.0` | ✅ latest |
-| Nix unstable | `2.24.0` | ✅ latest |
-| Void | `2.24.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.24.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `skaffold` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -113,4 +101,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:15:06Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:19:54Z._
