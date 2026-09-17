@@ -42,55 +42,55 @@ x install skaffold
 
 ## 发布
 
-- **最新版本**: `v2.24.0` (2026-07-23)
-- **最近提交**: 2026-09-15
+- **最新版本**: `v2.25.0` (2026-09-16)
+- **最近提交**: 2026-09-16
 - **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 15,891 · **Fork**: 1,701 · **开放 issue**: 4,281 · **贡献者**: 443
+- **Star**: 15,890 · **Fork**: 1,700 · **开放 issue**: 4,281 · **贡献者**: 443
 
 ## 累计统计
 
-- **发布数**: 200 · **已合并 PR**: 4877 · **开放 PR**: 75 · **已关闭 issue**: 3447 · **开放 issue**: 834 · **提交数**: 9246
+- **发布数**: 201 · **已合并 PR**: 4879 · **开放 PR**: 76 · **已关闭 issue**: 3447 · **开放 issue**: 834 · **提交数**: 9248
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 8 | 10 | 3 | 2 | 0 |
-| last60d | 2026-07-18 | 1 | 13 | 12 | 3 | 4 | 0 |
-| 90d | 2026-06-18 | 2 | 28 | 17 | 3 | 11 | 0 |
-| last180d | 2026-03-20 | 8 | 68 | 29 | 9 | 18 | 0 |
-| 360d | 2025-09-21 | 14 | 131 | 49 | 15 | 36 | 0 |
-| last720d | 2024-09-26 | 20 | 304 | 62 | 51 | 90 | 312 |
+| 30d | 2026-08-18 | 1 | 10 | 10 | 3 | 2 | 0 |
+| last60d | 2026-07-19 | 2 | 15 | 13 | 3 | 4 | 0 |
+| 90d | 2026-06-19 | 3 | 30 | 18 | 3 | 11 | 0 |
+| last180d | 2026-03-21 | 9 | 70 | 30 | 9 | 18 | 0 |
+| 360d | 2025-09-22 | 15 | 133 | 50 | 15 | 36 | 0 |
+| last720d | 2024-09-27 | 21 | 306 | 63 | 50 | 90 | 314 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [skaffold-darwin-amd64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-amd64) | 131.9 MiB | `native/darwin/x64` |
-| [skaffold-darwin-amd64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-amd64.sha256) | 88 B | `native/darwin/x64` |
-| [skaffold-darwin-amd64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-amd64.sha256.sig) | 71 B | `native/darwin/x64` |
-| [skaffold-darwin-amd64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-amd64.sig) | 70 B | `native/darwin/x64` |
-| [skaffold-darwin-arm64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64) | 124.1 MiB | `native/darwin/arm64` |
-| [skaffold-darwin-arm64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64.sha256) | 88 B | `native/darwin/arm64` |
-| [skaffold-darwin-arm64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64.sha256.sig) | 71 B | `native/darwin/arm64` |
-| [skaffold-darwin-arm64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-darwin-arm64.sig) | 70 B | `native/darwin/arm64` |
-| [skaffold-linux-amd64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64) | 124.0 MiB | `native/linux/x64` |
-| [skaffold-linux-amd64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64.sha256) | 87 B | `native/linux/x64` |
-| [skaffold-linux-amd64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64.sha256.sig) | 70 B | `native/linux/x64` |
-| [skaffold-linux-amd64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-amd64.sig) | 72 B | `native/linux/x64` |
-| [skaffold-linux-arm64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64) | 115.9 MiB | `native/linux/arm64` |
-| [skaffold-linux-arm64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64.sha256) | 87 B | `native/linux/arm64` |
-| [skaffold-linux-arm64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64.sha256.sig) | 71 B | `native/linux/arm64` |
-| [skaffold-linux-arm64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-linux-arm64.sig) | 72 B | `native/linux/arm64` |
-| [skaffold-windows-amd64.exe](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe) | 116.5 MiB | `native/win/x64` |
-| [skaffold-windows-amd64.exe.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe.sha256) | 93 B | `native/win/x64` |
-| [skaffold-windows-amd64.exe.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe.sha256.sig) | 72 B | `native/win/x64` |
-| [skaffold-windows-amd64.exe.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/skaffold-windows-amd64.exe.sig) | 71 B | `native/win/x64` |
-| [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION) | 8 B | `other` |
-| [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.24.0/VERSION.sig) | 71 B | `other` |
+| [skaffold-darwin-amd64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-amd64) | 129.7 MiB | `native/darwin/x64` |
+| [skaffold-darwin-amd64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-amd64.sha256) | 88 B | `native/darwin/x64` |
+| [skaffold-darwin-amd64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-amd64.sha256.sig) | 71 B | `native/darwin/x64` |
+| [skaffold-darwin-amd64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-amd64.sig) | 71 B | `native/darwin/x64` |
+| [skaffold-darwin-arm64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-arm64) | 121.7 MiB | `native/darwin/arm64` |
+| [skaffold-darwin-arm64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-arm64.sha256) | 88 B | `native/darwin/arm64` |
+| [skaffold-darwin-arm64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-arm64.sha256.sig) | 71 B | `native/darwin/arm64` |
+| [skaffold-darwin-arm64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-darwin-arm64.sig) | 72 B | `native/darwin/arm64` |
+| [skaffold-linux-amd64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-amd64) | 121.8 MiB | `native/linux/x64` |
+| [skaffold-linux-amd64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-amd64.sha256) | 87 B | `native/linux/x64` |
+| [skaffold-linux-amd64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-amd64.sha256.sig) | 72 B | `native/linux/x64` |
+| [skaffold-linux-amd64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-amd64.sig) | 72 B | `native/linux/x64` |
+| [skaffold-linux-arm64](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-arm64) | 113.5 MiB | `native/linux/arm64` |
+| [skaffold-linux-arm64.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-arm64.sha256) | 87 B | `native/linux/arm64` |
+| [skaffold-linux-arm64.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-arm64.sha256.sig) | 70 B | `native/linux/arm64` |
+| [skaffold-linux-arm64.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-linux-arm64.sig) | 71 B | `native/linux/arm64` |
+| [skaffold-windows-amd64.exe](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe) | 114.4 MiB | `native/win/x64` |
+| [skaffold-windows-amd64.exe.sha256](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe.sha256) | 93 B | `native/win/x64` |
+| [skaffold-windows-amd64.exe.sha256.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe.sha256.sig) | 70 B | `native/win/x64` |
+| [skaffold-windows-amd64.exe.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/skaffold-windows-amd64.exe.sig) | 72 B | `native/win/x64` |
+| [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/VERSION) | 8 B | `other` |
+| [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/VERSION.sig) | 70 B | `other` |
 
 ## 改进这些数据
 
@@ -101,4 +101,4 @@ skaffold 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:18:13Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:21:25Z._
