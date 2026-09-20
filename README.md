@@ -4,7 +4,7 @@
 
 Easy and Repeatable Kubernetes Development
 
-![skaffold](https://repo.x-cmd.io/skaffold.svg)
+[![x-cmd/install — skaffold Code Quality Monitoring Repo Card](https://repo.x-cmd.io/skaffold.svg)](https://x-cmd.com/install/skaffold)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install skaffold
 
 ## Code insight
 
-Total: **2,716,354** lines of code across **12422** files in the top 5 languages.
+Total: **2,722,185** lines of code across **12435** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,249,384 | 545,690 | 311,149 | 11238 |
+| Go | 2,255,222 | 558,329 | 313,026 | 11251 |
 | Json | 383,490 | 0 | 400 | 259 |
 | AssemblyGAS | 29,419 | 1,573 | 3,322 | 93 |
 | Yaml | 21,930 | 1,047 | 622 | 743 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.25.0` (2026-09-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 15,890 · **Forks**: 1,700 · **Open issues**: 4,281 · **Contributors**: 443
+- **Stars**: 15,890 · **Forks**: 1,700 · **Open issues**: 4,281 · **Contributors**: 442
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 4880 · **Open PRs**: 76 · **Closed issues**: 3447 · **Open issues**: 834 · **Commits**: 9249
+- **Releases**: 201 · **Merged PRs**: 4881 · **Open PRs**: 75 · **Closed issues**: 3447 · **Open issues**: 834 · **Commits**: 9250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 9 | 10 | 3 | 2 | 13 |
-| last60d | 2026-07-20 | 2 | 16 | 13 | 3 | 4 | 16 |
-| 90d | 2026-06-20 | 3 | 29 | 17 | 3 | 11 | 33 |
-| last180d | 2026-03-22 | 9 | 71 | 30 | 9 | 18 | 71 |
-| 360d | 2025-09-23 | 15 | 134 | 50 | 15 | 36 | 131 |
-| last720d | 2024-09-28 | 21 | 307 | 63 | 50 | 90 | 315 |
+| 30d | 2026-08-21 | 1 | 10 | 9 | 3 | 1 | 14 |
+| last60d | 2026-07-22 | 2 | 17 | 12 | 3 | 4 | 17 |
+| 90d | 2026-06-22 | 3 | 29 | 16 | 3 | 9 | 34 |
+| last180d | 2026-03-24 | 9 | 72 | 29 | 9 | 18 | 72 |
+| 360d | 2025-09-25 | 15 | 135 | 49 | 15 | 36 | 132 |
+| last720d | 2024-09-30 | 21 | 308 | 62 | 50 | 90 | 316 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:04:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:07Z._
