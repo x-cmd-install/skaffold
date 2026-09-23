@@ -4,7 +4,7 @@
 
 Easy and Repeatable Kubernetes Development
 
-[![x-cmd/install — skaffold Code Quality Monitoring Repo Card](https://repo.x-cmd.io/skaffold.svg)](https://x-cmd.com/install/skaffold)
+[![x-cmd/install — skaffold Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/skaffold.svg)](https://x-cmd.com/install/skaffold)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,890 · **Forks**: 1,701 · **Open issues**: 4,281 · **Contributors**: 442
+- **Stars**: 15,893 · **Forks**: 1,701 · **Open issues**: 4,281 · **Contributors**: 442
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 10 | 9 | 3 | 1 | 10 |
-| last60d | 2026-07-24 | 1 | 15 | 11 | 3 | 3 | 16 |
-| 90d | 2026-06-24 | 3 | 27 | 16 | 3 | 9 | 22 |
-| last180d | 2026-03-26 | 9 | 70 | 28 | 9 | 18 | 70 |
-| 360d | 2025-09-27 | 15 | 135 | 49 | 15 | 36 | 132 |
-| last720d | 2024-10-02 | 21 | 308 | 62 | 50 | 89 | 316 |
+| 30d | 2026-08-24 | 1 | 10 | 9 | 3 | 1 | 10 |
+| last60d | 2026-07-25 | 1 | 13 | 11 | 3 | 3 | 16 |
+| 90d | 2026-06-25 | 3 | 23 | 16 | 3 | 9 | 22 |
+| last180d | 2026-03-27 | 8 | 70 | 28 | 9 | 17 | 70 |
+| 360d | 2025-09-28 | 15 | 135 | 49 | 15 | 36 | 132 |
+| last720d | 2024-10-03 | 21 | 308 | 62 | 50 | 88 | 316 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:18:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:19:44Z._
