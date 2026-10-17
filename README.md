@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 2 | 9 | 0 | 1 | 3 |
-| last60d | 2026-08-17 | 1 | 14 | 18 | 3 | 3 | 17 |
-| 90d | 2026-07-18 | 2 | 19 | 20 | 3 | 5 | 19 |
-| last180d | 2026-04-19 | 7 | 59 | 34 | 7 | 18 | 62 |
-| 360d | 2025-10-21 | 15 | 125 | 55 | 13 | 33 | 122 |
-| last720d | 2024-10-26 | 21 | 304 | 70 | 48 | 86 | 314 |
+| 30d | 2026-09-17 | 0 | 2 | 9 | 0 | 1 | 3 |
+| last60d | 2026-08-18 | 1 | 14 | 17 | 3 | 3 | 17 |
+| 90d | 2026-07-19 | 2 | 19 | 20 | 3 | 5 | 19 |
+| last180d | 2026-04-20 | 7 | 59 | 34 | 7 | 18 | 62 |
+| 360d | 2025-10-22 | 15 | 125 | 55 | 12 | 33 | 122 |
+| last720d | 2024-10-27 | 21 | 304 | 70 | 48 | 86 | 314 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:44:51Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:36:12Z._
