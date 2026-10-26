@@ -1,25 +1,10 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: homebrew
   srcname: skaffold
-  binname: skaffold
   visiblename: skaffold
   version: 2.25.0
-  origversion: 2.25.0-1
+  origversion: null
   status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1
-  status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
+  summary: Easy and Repeatable Kubernetes Development
 - repo: arch
   subrepo: extra
   srcname: skaffold
@@ -65,13 +50,6 @@
 - repo: homebrew
   srcname: skaffold
   visiblename: skaffold
-  version: 2.25.0
-  origversion: null
-  status: newest
-  summary: Easy and Repeatable Kubernetes Development
-- repo: homebrew
-  srcname: skaffold
-  visiblename: skaffold
   version: HEAD
   origversion: null
   status: rolling
@@ -99,6 +77,28 @@
   version: 2.22.1
   origversion: 2.22.1-1
   status: outdated
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
   summary: A command line tool that facilitates continuous development for Kubernetes applications
   licenses:
     - Apache-2.0
@@ -219,7 +219,7 @@
   binname: skaffold
   visiblename: sysutils/skaffold
   version: 2.16.1
-  origversion: 2.16.1nb14
+  origversion: 2.16.1nb15
   status: outdated
   summary: Command line tool for Kubernetes application development
   maintainers:
