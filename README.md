@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 4884 · **Open PRs**: 82 · **Closed issues**: 3447 · **Open issues**: 835 · **Commits**: 9253
+- **Releases**: 201 · **Merged PRs**: 4884 · **Open PRs**: 85 · **Closed issues**: 3447 · **Open issues**: 835 · **Commits**: 9253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 1 | 4 | 0 | 1 | 1 |
-| last60d | 2026-09-03 | 1 | 11 | 9 | 2 | 1 | 12 |
-| 90d | 2026-08-04 | 1 | 16 | 19 | 3 | 3 | 19 |
-| last180d | 2026-05-06 | 6 | 55 | 28 | 4 | 15 | 54 |
-| 360d | 2025-11-07 | 15 | 121 | 51 | 11 | 31 | 115 |
-| last720d | 2024-11-12 | 21 | 300 | 69 | 46 | 84 | 307 |
+| 30d | 2026-10-04 | 0 | 1 | 7 | 0 | 1 | 1 |
+| last60d | 2026-09-04 | 1 | 11 | 12 | 2 | 1 | 12 |
+| 90d | 2026-08-05 | 1 | 16 | 22 | 3 | 3 | 19 |
+| last180d | 2026-05-07 | 6 | 55 | 31 | 4 | 15 | 54 |
+| 360d | 2025-11-08 | 15 | 121 | 54 | 11 | 31 | 115 |
+| last720d | 2024-11-13 | 21 | 299 | 71 | 46 | 84 | 301 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:21:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:01:47Z._
