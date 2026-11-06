@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,899 · **Forks**: 1,708 · **Open issues**: 4,282 · **Contributors**: 443
+- **Stars**: 15,899 · **Forks**: 1,707 · **Open issues**: 4,282 · **Contributors**: 443
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 4 | 4 | 0 | 1 | 4 |
-| last60d | 2026-09-06 | 1 | 14 | 9 | 2 | 1 | 15 |
-| 90d | 2026-08-07 | 1 | 19 | 18 | 3 | 3 | 22 |
-| last180d | 2026-05-09 | 6 | 56 | 28 | 4 | 15 | 57 |
-| 360d | 2025-11-10 | 15 | 123 | 51 | 11 | 31 | 118 |
-| last720d | 2024-11-15 | 21 | 297 | 68 | 46 | 83 | 301 |
+| 30d | 2026-10-07 | 0 | 4 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-07 | 1 | 14 | 9 | 2 | 1 | 15 |
+| 90d | 2026-08-08 | 1 | 19 | 18 | 3 | 3 | 22 |
+| last180d | 2026-05-10 | 6 | 56 | 28 | 4 | 15 | 57 |
+| 360d | 2025-11-11 | 15 | 123 | 51 | 11 | 31 | 118 |
+| last720d | 2024-11-16 | 21 | 296 | 68 | 46 | 83 | 296 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:59:02Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:59:06Z._
