@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,899 · **Forks**: 1,707 · **Open issues**: 4,282 · **Contributors**: 443
+- **Stars**: 15,900 · **Forks**: 1,708 · **Open issues**: 4,282 · **Contributors**: 443
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 4 | 4 | 0 | 0 | 4 |
-| last60d | 2026-09-07 | 1 | 14 | 9 | 2 | 1 | 15 |
-| 90d | 2026-08-08 | 1 | 19 | 18 | 3 | 3 | 22 |
-| last180d | 2026-05-10 | 6 | 56 | 28 | 4 | 15 | 57 |
-| 360d | 2025-11-11 | 15 | 123 | 51 | 11 | 31 | 118 |
-| last720d | 2024-11-16 | 21 | 296 | 68 | 46 | 83 | 296 |
+| 30d | 2026-10-08 | 0 | 4 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-08 | 1 | 14 | 9 | 2 | 1 | 15 |
+| 90d | 2026-08-09 | 1 | 18 | 18 | 3 | 3 | 22 |
+| last180d | 2026-05-11 | 6 | 55 | 28 | 4 | 15 | 57 |
+| 360d | 2025-11-12 | 15 | 123 | 51 | 11 | 30 | 118 |
+| last720d | 2024-11-17 | 21 | 296 | 68 | 46 | 83 | 296 |
 
 ## Release assets
 
@@ -92,18 +92,6 @@ Lowest-scoring checks:
 | [VERSION](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/VERSION) | 8 B | `other` |
 | [VERSION.sig](https://github.com/GoogleContainerTools/skaffold/releases/download/v2.25.0/VERSION.sig) | 70 B | `other` |
 
-## Distribution status
-
-Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **9** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.25.0` | ✅ latest |
-| Homebrew | `2.25.0` | ✅ latest |
-| Nix unstable | `2.24.0` | ⚠️ outdated |
-| Void | `2.24.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.25.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `skaffold` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -113,4 +101,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:59:06Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:22:19Z._
