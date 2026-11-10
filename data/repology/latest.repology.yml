@@ -1,12 +1,45 @@
-- repo: wakemeops
-  subrepo: devops
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: skaffold
   binname: skaffold
   visiblename: skaffold
-  version: 2.6.3
-  origversion: 2.6.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: extras
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: skaffold
@@ -18,6 +51,230 @@
   summary: A command line tool that facilitates continuous development for Kubernetes applications
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: skaffold-bin
+  binname: skaffold-bin
+  visiblename: skaffold-bin
+  version: 2.13.2
+  origversion: 2.13.2-1
+  status: outdated
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  maintainers:
+    - jyny@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: skaffold-git
+  binname: skaffold-git
+  visiblename: skaffold-git
+  version: 2.13.2
+  origversion: 2.13.2-1
+  status: rolling
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  maintainers:
+    - jyny@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: skaffold
+  visiblename: Skaffold (Install)
+  version: 2.25.0
+  origversion: null
+  status: newest
+  summary: skaffold
+- repo: homebrew
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: null
+  status: newest
+  summary: Easy and Repeatable Kubernetes Development
+- repo: homebrew
+  srcname: skaffold
+  visiblename: skaffold
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Easy and Repeatable Kubernetes Development
+- repo: macports
+  srcname: devel/skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: null
+  status: newest
+  summary: Skaffold is a command line tool that facilitates continuous development for Kubernetes applications
+  maintainers:
+    - breun@macports
+    - breun@github
+  licenses:
+    - Apache-2
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.12.0
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.13.2
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.15.0
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.16.1
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.19.0
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: skaffold
+  visiblename: skaffold
+  version: 2.24.0
+  origversion: null
+  status: outdated
+  summary: Easy and Repeatable Kubernetes Development
+  maintainers:
+    - vincent@sbr.pm
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: skaffold
+  binnames:
+    - skaffold
+    - skaffold-debuginfo
+    - skaffold-debugsource
+    - skaffold-bash-completion
+    - skaffold-fish-completion
+    - skaffold-zsh-completion
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1.1
+  status: newest
+  summary: Easy and Repeatable Kubernetes Development
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: 2.25.0-1
+  status: newest
+  summary: A command line tool that facilitates continuous development for Kubernetes applications
+  licenses:
+    - Apache-2.0
+- repo: pkgsrc_2026_2
+  srcname: sysutils/skaffold
+  binname: skaffold
+  visiblename: sysutils/skaffold
+  version: 2.16.1
+  origversion: 2.16.1nb10
+  status: outdated
+  summary: Command line tool for Kubernetes application development
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_3
+  srcname: sysutils/skaffold
+  binname: skaffold
+  visiblename: sysutils/skaffold
+  version: 2.16.1
+  origversion: 2.16.1nb15
+  status: outdated
+  summary: Command line tool for Kubernetes application development
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/skaffold
+  binname: skaffold
+  visiblename: sysutils/skaffold
+  version: 2.16.1
+  origversion: 2.16.1nb16
+  status: outdated
+  summary: Command line tool for Kubernetes application development
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: solus
+  srcname: skaffold
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.25.0
+  origversion: null
+  status: newest
+  summary: Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+  categories:
+    - programming.tools
+- repo: solus
+  srcname: skaffold
+  binname: skaffold-dbginfo
+  visiblename: skaffold-dbginfo
+  version: 2.25.0
+  origversion: null
+  status: newest
+  summary: Debug symbols for skaffold
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+  categories:
+    - debug
 - repo: void_x86_64
   subrepo: x86_64
   srcname: skaffold
@@ -296,6 +553,15 @@
   subrepo: devops
   binname: skaffold
   visiblename: skaffold
+  version: 2.6.3
+  origversion: 2.6.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: skaffold
+  visiblename: skaffold
   version: 2.6.2
   origversion: 2.6.2-1~ops2deb
   status: legacy
@@ -517,269 +783,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: aur
-  srcname: skaffold-bin
-  binname: skaffold-bin
-  visiblename: skaffold-bin
-  version: 2.13.2
-  origversion: 2.13.2-1
-  status: outdated
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  maintainers:
-    - jyny@aur
-  licenses:
-    - Apache
-- repo: aur
-  srcname: skaffold-git
-  binname: skaffold-git
-  visiblename: skaffold-git
-  version: 2.13.2
-  origversion: 2.13.2-1
-  status: rolling
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  maintainers:
-    - jyny@aur
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: skaffold
-  visiblename: Skaffold (Install)
-  version: 2.25.0
-  origversion: null
-  status: newest
-  summary: skaffold
-- repo: homebrew
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: null
-  status: newest
-  summary: Easy and Repeatable Kubernetes Development
-- repo: homebrew
-  srcname: skaffold
-  visiblename: skaffold
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Easy and Repeatable Kubernetes Development
-- repo: pkgsrc_current
-  srcname: sysutils/skaffold
-  binname: skaffold
-  visiblename: sysutils/skaffold
-  version: 2.16.1
-  origversion: 2.16.1nb16
-  status: outdated
-  summary: Command line tool for Kubernetes application development
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
-- repo: macports
-  srcname: devel/skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: null
-  status: newest
-  summary: Skaffold is a command line tool that facilitates continuous development for Kubernetes applications
-  maintainers:
-    - breun@macports
-    - breun@github
-  licenses:
-    - Apache-2
-  categories:
-    - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1
-  status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1
-  status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1
-  status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.12.0
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.13.2
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.15.0
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.16.1
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_26_05
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.19.0
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-  licenses:
-    - Apache-2.0
-- repo: nix_unstable
-  srcname: skaffold
-  visiblename: skaffold
-  version: 2.24.0
-  origversion: null
-  status: outdated
-  summary: Easy and Repeatable Kubernetes Development
-  maintainers:
-    - vincent@sbr.pm
-  licenses:
-    - Apache-2.0
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: skaffold
-  binnames:
-    - skaffold
-    - skaffold-debuginfo
-    - skaffold-debugsource
-    - skaffold-bash-completion
-    - skaffold-fish-completion
-    - skaffold-zsh-completion
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1.1
-  status: newest
-  summary: Easy and Repeatable Kubernetes Development
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: 2.25.0-1
-  status: newest
-  summary: A command line tool that facilitates continuous development for Kubernetes applications
-  licenses:
-    - Apache-2.0
-- repo: pkgsrc_2026_2
-  srcname: sysutils/skaffold
-  binname: skaffold
-  visiblename: sysutils/skaffold
-  version: 2.16.1
-  origversion: 2.16.1nb10
-  status: outdated
-  summary: Command line tool for Kubernetes application development
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
-- repo: pkgsrc_2026_3
-  srcname: sysutils/skaffold
-  binname: skaffold
-  visiblename: sysutils/skaffold
-  version: 2.16.1
-  origversion: 2.16.1nb15
-  status: outdated
-  summary: Command line tool for Kubernetes application development
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
-- repo: scoop
-  subrepo: extras
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.25.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: solus
-  srcname: skaffold
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.12.0
-  origversion: null
-  status: outdated
-  summary: Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
-  maintainers:
-    - jakob@knugen.nu
-  licenses:
-    - Apache-2.0
-  categories:
-    - programming.tools
-- repo: solus
-  srcname: skaffold
-  binname: skaffold-dbginfo
-  visiblename: skaffold-dbginfo
-  version: 2.12.0
-  origversion: null
-  status: outdated
-  summary: Debug symbols for skaffold
-  maintainers:
-    - jakob@knugen.nu
-  licenses:
-    - Apache-2.0
-  categories:
-    - debug
