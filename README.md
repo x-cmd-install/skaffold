@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,899 · **Forks**: 1,709 · **Open issues**: 4,282 · **Contributors**: 443
+- **Stars**: 15,901 · **Forks**: 1,709 · **Open issues**: 4,282 · **Contributors**: 443
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 4 | 4 | 0 | 0 | 4 |
-| last60d | 2026-09-10 | 1 | 12 | 9 | 2 | 1 | 10 |
-| 90d | 2026-08-11 | 1 | 18 | 18 | 3 | 3 | 22 |
-| last180d | 2026-05-13 | 6 | 53 | 28 | 4 | 15 | 51 |
-| 360d | 2025-11-14 | 14 | 119 | 50 | 11 | 29 | 113 |
-| last720d | 2024-11-19 | 21 | 296 | 68 | 46 | 83 | 295 |
+| 30d | 2026-10-11 | 0 | 4 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-11 | 1 | 11 | 9 | 1 | 1 | 10 |
+| 90d | 2026-08-12 | 1 | 18 | 18 | 3 | 3 | 22 |
+| last180d | 2026-05-14 | 6 | 51 | 28 | 4 | 15 | 51 |
+| 360d | 2025-11-15 | 14 | 119 | 50 | 11 | 29 | 113 |
+| last720d | 2024-11-20 | 21 | 295 | 68 | 46 | 83 | 294 |
 
 ## Release assets
 
@@ -94,7 +94,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **11** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **13** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:45:19Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:33:11Z._
