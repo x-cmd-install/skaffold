@@ -14,13 +14,13 @@ x install skaffold
 
 ## Code insight
 
-Total: **2,723,444** lines of code across **12438** files in the top 5 languages.
+Total: **2,726,312** lines of code across **12454** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,256,345 | 558,499 | 313,128 | 11253 |
-| Json | 383,490 | 0 | 400 | 259 |
-| AssemblyGAS | 29,553 | 1,578 | 3,341 | 94 |
+| Go | 2,255,848 | 558,746 | 313,171 | 11264 |
+| Json | 383,508 | 0 | 400 | 259 |
+| AssemblyGAS | 32,900 | 1,943 | 3,819 | 99 |
 | Yaml | 21,932 | 1,047 | 622 | 743 |
 | Protobuf | 10,489 | 22,265 | 5,224 | 89 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.25.0` (2026-09-16)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-11
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 4887 · **Open PRs**: 84 · **Closed issues**: 3447 · **Open issues**: 835 · **Commits**: 9256
+- **Releases**: 201 · **Merged PRs**: 4888 · **Open PRs**: 84 · **Closed issues**: 3447 · **Open issues**: 835 · **Commits**: 9257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 4 | 5 | 0 | 0 | 4 |
-| last60d | 2026-09-12 | 1 | 11 | 11 | 1 | 1 | 10 |
-| 90d | 2026-08-13 | 1 | 18 | 20 | 3 | 3 | 22 |
-| last180d | 2026-05-15 | 6 | 51 | 29 | 4 | 14 | 51 |
-| 360d | 2025-11-16 | 14 | 119 | 52 | 11 | 29 | 113 |
-| last720d | 2024-11-21 | 21 | 292 | 70 | 45 | 83 | 294 |
+| 30d | 2026-10-13 | 0 | 5 | 5 | 0 | 0 | 5 |
+| last60d | 2026-09-13 | 1 | 12 | 11 | 1 | 1 | 11 |
+| 90d | 2026-08-14 | 1 | 19 | 20 | 3 | 3 | 23 |
+| last180d | 2026-05-16 | 5 | 52 | 29 | 4 | 14 | 52 |
+| 360d | 2025-11-17 | 14 | 120 | 52 | 11 | 29 | 114 |
+| last720d | 2024-11-22 | 21 | 293 | 70 | 45 | 83 | 293 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:35:23Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:32:45Z._
