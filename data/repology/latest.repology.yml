@@ -1,3 +1,12 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.21.0
+  origversion: 2.21.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: arch
   subrepo: extra
   srcname: skaffold
@@ -54,6 +63,15 @@
   origversion: null
   status: rolling
   summary: Easy and Repeatable Kubernetes Development
+- repo: wakemeops
+  subrepo: devops
+  binname: skaffold
+  visiblename: skaffold
+  version: 2.19.0
+  origversion: 2.19.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: macports
   srcname: devel/skaffold
   binname: skaffold
@@ -164,9 +182,9 @@
 - repo: nix_unstable
   srcname: skaffold
   visiblename: skaffold
-  version: 2.24.0
+  version: 2.25.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Easy and Repeatable Kubernetes Development
   maintainers:
     - vincent@sbr.pm
@@ -321,24 +339,6 @@
   visiblename: skaffold
   version: 2.22.0
   origversion: 2.22.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.21.0
-  origversion: 2.21.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: skaffold
-  visiblename: skaffold
-  version: 2.19.0
-  origversion: 2.19.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
