@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,905 · **Forks**: 1,709 · **Open issues**: 4,282 · **Contributors**: 443
+- **Stars**: 15,907 · **Forks**: 1,709 · **Open issues**: 4,282 · **Contributors**: 443
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 5 | 5 | 0 | 0 | 5 |
-| last60d | 2026-09-13 | 1 | 12 | 11 | 1 | 1 | 11 |
-| 90d | 2026-08-14 | 1 | 19 | 20 | 3 | 3 | 23 |
-| last180d | 2026-05-16 | 5 | 52 | 29 | 4 | 14 | 52 |
-| 360d | 2025-11-17 | 14 | 120 | 52 | 11 | 29 | 114 |
-| last720d | 2024-11-22 | 21 | 293 | 70 | 45 | 83 | 293 |
+| 30d | 2026-10-14 | 0 | 5 | 3 | 0 | 0 | 5 |
+| last60d | 2026-09-14 | 1 | 12 | 11 | 0 | 1 | 11 |
+| 90d | 2026-08-15 | 1 | 19 | 20 | 3 | 3 | 23 |
+| last180d | 2026-05-17 | 5 | 52 | 29 | 4 | 14 | 52 |
+| 360d | 2025-11-18 | 14 | 120 | 52 | 11 | 29 | 114 |
+| last720d | 2024-11-23 | 21 | 292 | 70 | 44 | 83 | 292 |
 
 ## Release assets
 
@@ -94,13 +94,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **13** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/skaffold). **14** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.25.0` | ✅ latest |
 | Homebrew | `2.25.0` | ✅ latest |
-| Nix unstable | `2.24.0` | ⚠️ outdated |
+| Nix unstable | `2.25.0` | ✅ latest |
 | Void | `2.24.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.25.0` | ✅ latest |
 
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:32:45Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:02:22Z._
