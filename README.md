@@ -14,7 +14,7 @@ x install skaffold
 
 ## Code insight
 
-Total: **2,729,709** lines of code across **12479** files in the top 5 languages.
+Total: **2,729,697** lines of code across **12479** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.25.0` (2026-09-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-20
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 15,916 · **Forks**: 1,711 · **Open issues**: 4,282 · **Contributors**: 443
+- **Stars**: 15,918 · **Forks**: 1,713 · **Open issues**: 4,283 · **Contributors**: 443
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 4890 · **Open PRs**: 85 · **Closed issues**: 3447 · **Open issues**: 835 · **Commits**: 9259
+- **Releases**: 201 · **Merged PRs**: 4891 · **Open PRs**: 86 · **Closed issues**: 3447 · **Open issues**: 836 · **Commits**: 9260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 6 | 4 | 0 | 0 | 6 |
-| last60d | 2026-09-21 | 0 | 8 | 12 | 0 | 1 | 9 |
-| 90d | 2026-08-22 | 1 | 19 | 20 | 3 | 2 | 23 |
-| last180d | 2026-05-24 | 4 | 48 | 30 | 4 | 14 | 49 |
-| 360d | 2025-11-25 | 14 | 119 | 52 | 11 | 29 | 115 |
-| last720d | 2024-11-30 | 21 | 291 | 70 | 42 | 81 | 290 |
+| 30d | 2026-10-22 | 0 | 7 | 5 | 0 | 1 | 7 |
+| last60d | 2026-09-22 | 0 | 9 | 13 | 0 | 2 | 10 |
+| 90d | 2026-08-23 | 1 | 20 | 21 | 3 | 3 | 24 |
+| last180d | 2026-05-25 | 4 | 49 | 31 | 4 | 15 | 50 |
+| 360d | 2025-11-26 | 14 | 120 | 53 | 11 | 30 | 116 |
+| last720d | 2024-12-01 | 21 | 292 | 71 | 42 | 82 | 291 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for skaffold lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:35:52Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:33:47Z._
